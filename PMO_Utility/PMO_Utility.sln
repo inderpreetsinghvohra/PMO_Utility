@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMO_Utility", "PMO_Utility\PMO_Utility.csproj", "{472AB3DE-0AFB-4BD4-B48D-E7C927C1DA92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472AB3DE-0AFB-4BD4-B48D-E7C927C1DA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472AB3DE-0AFB-4BD4-B48D-E7C927C1DA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472AB3DE-0AFB-4BD4-B48D-E7C927C1DA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472AB3DE-0AFB-4BD4-B48D-E7C927C1DA92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
